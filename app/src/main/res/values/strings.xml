@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AplikasiPahlawan2</string>
+    <string name="desc_soekarno">Proklamator kemerdekaan Indonesia dan presiden pertama.</string>
+    <string name="desc_hatta">Proklamator kemerdekaan Indonesia dan wakil presiden pertama.</string>
+    <string name="desc_sudirman">Panglima besar pertama TNI yang dikenal dengan perjuangan gerilya.</string>
+    <string name="desc_pattimura">Pahlawan nasional dari Maluku.</string>
+    <string name="desc_imam_bonjol">Pemimpin Perang Padri dari Sumatera Barat.</string>
+</resources>
